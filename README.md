@@ -13,7 +13,7 @@ A comprehensive pagination system for aiogram inline keyboards with type safety 
 ## Installation
 
 ```bash
-pip install aiogram-pagination
+pip install pagination-aiogram3
 ```
 
 ## Quick Start
